@@ -1,3 +1,4 @@
 *.jpg
 *.jar
 *.sqlite
+/SQLiteProject1/dist/
